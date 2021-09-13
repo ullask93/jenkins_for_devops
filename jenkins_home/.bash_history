@@ -65,3 +65,110 @@ pwd
 ssh remote_user@remote_host
 rxit
 exit
+ansible
+exit
+cd $HOME
+pwd
+touch ullas
+ls
+exit
+ls ansible
+ls ansible/
+cd $HOME
+ls ansible/
+pwd
+ls
+cd $HOME
+ls ansible/
+exit
+cd $HOME
+ls ansible
+exit
+clear
+cd 
+cd ansible/
+ls
+cat hosts 
+ping remote_host
+ping remote_host
+ansible -i hosts -m ping test1
+cat hosts
+exit
+cd
+ansible -i hosts -m ping test1
+cat hosts
+pwd
+ls
+cd ansible/
+ls
+hosts
+cat hosts
+exit
+cd 
+pwd
+ls
+cd ansible/
+ls
+cd
+pwd
+cd ansible/
+pwd
+cd
+cd ansible/
+ls
+cat hosts
+exit
+cd
+ls ansible/
+pwd
+cd ansible/
+pwd
+ls
+exit
+cd 
+cd ansible
+ls
+cat hosts
+exit
+cd ansible
+cd 
+cd ansible
+ping remote_host
+ansible -i hosts -m ping test1
+exit
+cd 
+ansib
+cd ansible
+ls
+ansible-playbook -i hosts play.yml
+cat play.yml
+exit
+cd 
+ansible
+cd 'ansible
+cd ansible
+ls
+exit
+cd ansible
+cd
+cd ansible/
+cat play.yml 
+ansible-playbook -i hosts play.yml
+exit
+cd 
+cd ansible/
+ll
+ls
+pwd
+exit
+cd
+cd ansible/
+cat play.yml 
+exit
+exit
+cd
+cd ansible/
+ls
+cat play.yml 
+exir
+exit
