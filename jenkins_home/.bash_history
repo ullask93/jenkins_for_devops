@@ -173,3 +173,26 @@ cat play.yml
 exir
 exit
 exit
+ssh web
+cd ansible/
+cd
+cd ansible/
+cat hosts
+ansible -m ping -i hosts web1
+ansible -m ping -i hosts test1
+ansible -m ping -i hosts all
+exit
+cd
+cd ansible/
+ll
+ls
+ansible-playbook -i hosts people.yml
+exit
+cd
+cd ansible/
+ls -l
+ansible-playbook -i hosts people.yml
+ansible-playbook -i hosts people.yml -e "PEOPLE_AGE=25"
+pws
+pwd
+exit
