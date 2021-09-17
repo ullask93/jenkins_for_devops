@@ -196,3 +196,33 @@ ansible-playbook -i hosts people.yml -e "PEOPLE_AGE=25"
 pws
 pwd
 exit
+cd
+ll
+ls
+pwd
+exit
+cd
+ls
+cd work
+cd workspace/
+ls
+cd maven-job/
+ls
+ls
+cd jenkins/
+ls
+cd Jenkinsfile 
+cd ..
+cd target/
+ls
+pwd
+ls
+ls
+ls -l
+cd ..
+ls
+cd target/
+ls
+cd surefire-reports/
+*.xml
+exit
