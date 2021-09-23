@@ -226,3 +226,8 @@ ls
 cd surefire-reports/
 *.xml
 exit
+docker ps
+exit
+docker ps
+docker images
+exit
